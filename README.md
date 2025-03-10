@@ -12,15 +12,12 @@
 ## 🔗 Connect With Me:
 
 <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40">
 </a>
 
-<a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white" height="30">
-</a>
 
 <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40">
 </a>
 
 ## 💻 Tech Stack:
